@@ -10,8 +10,5 @@
     },
     "dependencies": {
         "astro": "^5.16.9"
-    },
-    "engines": {
-        "node": ">=19 <=21"
     }
 }
